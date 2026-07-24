@@ -43,6 +43,6 @@ addons = [
   },
   {
     name    = "aws-ebs-csi-driver"
-  }
+  },
   # Add more addons as needed
 ]
