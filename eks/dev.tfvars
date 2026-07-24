@@ -33,16 +33,15 @@ min_capacity_spot          = "1"
 max_capacity_spot          = "10"
 addons = [
   {
-    name    = "vpc-cni",
+    name = "vpc-cni"
   },
   {
-    name    = "coredns"
+    name = "coredns"
   },
   {
-    name    = "kube-proxy"
+    name = "kube-proxy"
   },
   {
-    name    = "aws-ebs-csi-driver"
-  },
-  # Add more addons as needed
+    name = "aws-ebs-csi-driver"
+  }
 ]
