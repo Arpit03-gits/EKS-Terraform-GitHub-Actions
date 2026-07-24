@@ -188,7 +188,7 @@ The `Jenkinsfile` exposes the same two parameters (`Environment`, `Terraform_Act
 **Arpit Kumar Mishra**
 [GitHub](https://github.com/Arpit03-gits) · [LinkedIn](https://www.linkedin.com/in/arpit-mishra-341203305)
 
-Final-year B.Tech IT student focused on Cloud/DevOps — building production-style infrastructure projects (AWS multi-tier architectures, CI/CD cost optimization, Kubernetes/GitOps) as part of an active internship search.
+Pre-Final year B.Tech IT student focused on Cloud/DevOps — building production-style infrastructure projects (AWS multi-tier architectures, CI/CD cost optimization, Kubernetes/GitOps) as part of an active internship search.
 
 ## 📄 License
 
