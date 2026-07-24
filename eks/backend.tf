@@ -1,5 +1,5 @@
 terraform {
-  required_version = "~> 1.15.8 "
+  required_version = "~> 1.15.8"
   required_providers {
     aws = {
       source  = "hashicorp/aws"
@@ -7,11 +7,11 @@ terraform {
     }
   }
   backend "s3" {
-    bucket         = "dev-arpit-tf-bucket"
-    region         = "us-east-1"
-    key            = "eks/terraform.tfstate"
+    bucket       = "dev-arpit-tf-bucket"
+    region       = "us-east-1"
+    key          = "eks/terraform.tfstate"
     use_lockfile = true
-    encrypt        = true
+    encrypt      = true
   }
 }
 
